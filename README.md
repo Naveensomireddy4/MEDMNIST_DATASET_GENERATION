@@ -1,6 +1,4 @@
 
-Here's the refined README content ready for direct copy-pasting into your README file:
-
 Dataset Generation for Federated Learning with MEDMNIST
 This repository provides tools for generating federated learning datasets, specifically using the MEDMNIST collection. It supports various partitioning strategies and configurations to facilitate experiments with different data distribution scenarios.
 
